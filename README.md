@@ -1,2 +1,2 @@
 # BilheteriaCinema
-Projeto desenvolvido para a dicipliona de linguagem C
+Projeto desenvolvido para  diciplina  de  linguagem  C
